@@ -1,4 +1,4 @@
-crewai[gemini]==1.9.3
+crewai[google-genai]==1.9.3
 streamlit
 python-dotenv
 pypdf
